@@ -1,0 +1,282 @@
+[
+  {
+    "slug": "accor",
+    "programme": "Accor Live Limitless",
+    "file": "accor.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Accor_Live_Limitless_logo.svg",
+    "licence": "Public domain",
+    "note": "Public domain"
+  },
+  {
+    "slug": "anz_rewards",
+    "programme": "ANZ Reward Points",
+    "file": "anz_rewards.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:ANZ-Logo-2009.svg",
+    "licence": "Public domain",
+    "note": "Public domain (check for newer ANZ logo)"
+  },
+  {
+    "slug": "best_western",
+    "programme": "Best Western Rewards",
+    "file": "best_western.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Best_Western_Hotels_%26_Resorts_logo.svg",
+    "licence": "Public domain",
+    "note": "Public domain"
+  },
+  {
+    "slug": "bmo_rewards",
+    "programme": "BMO Rewards",
+    "file": "bmo_rewards.svg",
+    "source": "https://github.com/icongo/bank-logos/blob/HEAD/logos/bmo.svg",
+    "licence": "MIT",
+    "note": "MIT repo"
+  },
+  {
+    "slug": "capital_one",
+    "programme": "Capital One Miles",
+    "file": "capital_one.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Capital_One_logo.svg",
+    "licence": "Public domain",
+    "note": "Public domain"
+  },
+  {
+    "slug": "choice",
+    "programme": "Choice Privileges",
+    "file": "choice.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Choice_Hotels_logo.svg",
+    "licence": "Public domain",
+    "note": "Public domain"
+  },
+  {
+    "slug": "cibc_aventura",
+    "programme": "CIBC Aventura",
+    "file": "cibc_aventura.svg",
+    "source": "https://github.com/callback-io/allogo/blob/HEAD/public/logos/cibc/icon.svg",
+    "licence": "reference use only (allogo)",
+    "note": "repo: reference use only"
+  },
+  {
+    "slug": "citi_miles_apac",
+    "programme": "Citi Miles",
+    "file": "citi_miles_apac.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Citi_logo_March_2023.svg",
+    "licence": "Public domain",
+    "note": ""
+  },
+  {
+    "slug": "citi_ty",
+    "programme": "Citi ThankYou Points",
+    "file": "citi_ty.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Citi_logo_March_2023.svg",
+    "licence": "Public domain",
+    "note": ""
+  },
+  {
+    "slug": "commbank_awards",
+    "programme": "CommBank Awards",
+    "file": "commbank_awards.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Commonwealth_Bank_Logo.svg",
+    "licence": "Public domain",
+    "note": "Public domain"
+  },
+  {
+    "slug": "dbs_points",
+    "programme": "DBS Points",
+    "file": "dbs_points.svg",
+    "source": "https://github.com/keyushhh/indian-bank-logos/blob/HEAD/logos/dbs.svg",
+    "licence": "no licence stated in repo",
+    "note": ""
+  },
+  {
+    "slug": "esfera",
+    "programme": "Esfera",
+    "file": "esfera.svg",
+    "source": "https://github.com/callback-io/allogo/blob/HEAD/public/logos/santanderbank/icon.svg",
+    "licence": "reference use only (allogo)",
+    "note": "parent brand Santander only; Esfera logo missing"
+  },
+  {
+    "slug": "hyatt",
+    "programme": "World of Hyatt",
+    "file": "hyatt.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hyatt_Logo.svg",
+    "licence": "Public domain",
+    "note": "Public domain"
+  },
+  {
+    "slug": "ihg",
+    "programme": "IHG One Rewards",
+    "file": "ihg.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:IHG_Hotels_%26_Resorts_logo.svg",
+    "licence": "Public domain",
+    "note": "Public domain"
+  },
+  {
+    "slug": "ktc_forever",
+    "programme": "KTC FOREVER",
+    "file": "ktc_forever.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Krungthai_Card_Logo.svg",
+    "licence": "Public domain",
+    "note": "Public domain"
+  },
+  {
+    "slug": "langham",
+    "programme": "Brilliant by Langham",
+    "file": "langham.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:LHG_EN_logo_BW.jpg",
+    "licence": "Public domain",
+    "note": "Public domain (jpg; check quality)"
+  },
+  {
+    "slug": "maybank_treats",
+    "programme": "Maybank TreatsPoints",
+    "file": "maybank_treats.svg",
+    "source": "https://github.com/icongo/bank-logos/blob/HEAD/logos/maybank.svg",
+    "licence": "MIT",
+    "note": "MIT repo"
+  },
+  {
+    "slug": "melia",
+    "programme": "MeliaRewards",
+    "file": "melia.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Meli%C3%A1_Hotels_International_logo.svg",
+    "licence": "Public domain",
+    "note": "Public domain"
+  },
+  {
+    "slug": "my_millennium",
+    "programme": "MyMillennium",
+    "file": "my_millennium.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Millennium_Hotels_And_Resorts_Logo.png",
+    "licence": "CC BY-SA 4.0",
+    "note": ""
+  },
+  {
+    "slug": "nab_rewards",
+    "programme": "NAB Rewards",
+    "file": "nab_rewards.svg",
+    "source": "https://github.com/callback-io/allogo/blob/HEAD/public/logos/nabcomau/icon.svg",
+    "licence": "reference use only (allogo)",
+    "note": "repo: reference use only"
+  },
+  {
+    "slug": "ocbc_90n",
+    "programme": "OCBC 90N Miles",
+    "file": "ocbc_90n.svg",
+    "source": "https://github.com/icongo/bank-logos/blob/HEAD/logos/ocbc.svg",
+    "licence": "MIT",
+    "note": "MIT repo"
+  },
+  {
+    "slug": "radisson",
+    "programme": "Radisson Rewards",
+    "file": "radisson.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Radisson_Hotels_logo.svg",
+    "licence": "Public domain",
+    "note": "Public domain"
+  },
+  {
+    "slug": "rbc_avion",
+    "programme": "RBC Avion",
+    "file": "rbc_avion.svg",
+    "source": "https://github.com/icongo/bank-logos/blob/HEAD/logos/rbcroyalbank.svg",
+    "licence": "MIT",
+    "note": "MIT repo"
+  },
+  {
+    "slug": "riu",
+    "programme": "Riu Class",
+    "file": "riu.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:RIU_Hotels_logo.svg",
+    "licence": "Public domain",
+    "note": "Public domain"
+  },
+  {
+    "slug": "rotana",
+    "programme": "Rotana Rewards",
+    "file": "rotana.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rotana_Group_Logo.svg",
+    "licence": "Public domain",
+    "note": "Rotana Group logo"
+  },
+  {
+    "slug": "sc_360",
+    "programme": "Standard Chartered 360 Rewards",
+    "file": "sc_360.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Standard_Chartered_(2021).svg",
+    "licence": "Public domain",
+    "note": "Public domain"
+  },
+  {
+    "slug": "scandic",
+    "programme": "Scandic Friends",
+    "file": "scandic.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Scandic.svg",
+    "licence": "Public domain",
+    "note": "Public domain"
+  },
+  {
+    "slug": "scene_plus",
+    "programme": "Scene+",
+    "file": "scene_plus.svg",
+    "source": "https://github.com/icongo/bank-logos/blob/HEAD/logos/scotiabank.svg",
+    "licence": "MIT",
+    "note": "parent brand Scotiabank only; Scene+ logo missing"
+  },
+  {
+    "slug": "shangri_la",
+    "programme": "Shangri-La Circle",
+    "file": "shangri_la.svg",
+    "source": "https://en.wikipedia.org/wiki/File:Shangri-La_Hotels_and_Resorts_logo.svg",
+    "licence": "PD",
+    "note": "PD (hosted on en.wikipedia)"
+  },
+  {
+    "slug": "strawberry",
+    "programme": "Strawberry",
+    "file": "strawberry.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Strawberry_Logo.svg",
+    "licence": "Public domain",
+    "note": "check it is the Strawberry hotel group mark"
+  },
+  {
+    "slug": "taj_ihcl",
+    "programme": "Taj Hotels",
+    "file": "taj_ihcl.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Taj_Hotels_logo.svg",
+    "licence": "Public domain",
+    "note": "Public domain"
+  },
+  {
+    "slug": "td_rewards",
+    "programme": "TD Rewards",
+    "file": "td_rewards.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Toronto-Dominion_Bank_logo.svg",
+    "licence": "Public domain",
+    "note": "Public domain"
+  },
+  {
+    "slug": "uob_uni",
+    "programme": "UOB UNI$",
+    "file": "uob_uni.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:UOB_Logo_(2022).svg",
+    "licence": "Public domain",
+    "note": "Public domain"
+  },
+  {
+    "slug": "westpac_altitude",
+    "programme": "Westpac Altitude Rewards",
+    "file": "westpac_altitude.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Westpac_logo.svg",
+    "licence": "Public domain",
+    "note": "Public domain"
+  },
+  {
+    "slug": "wyndham",
+    "programme": "Wyndham Rewards",
+    "file": "wyndham.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wyndham_Hotels_%26_Resorts_logo.svg",
+    "licence": "Public domain",
+    "note": "Public domain"
+  }
+]
